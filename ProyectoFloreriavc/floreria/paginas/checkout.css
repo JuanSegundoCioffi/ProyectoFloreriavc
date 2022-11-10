@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+*,::before,::after{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #ffbb2f;
+}
+h2{
+    color: #ffbb2f;
+}
+#boton-finalizar{
+    display: inline-block;
+    background-color: #ffbb2f;
+    color: #fff;
+    padding: .70rem 1rem;
+    border-radius: .5rem;
+}

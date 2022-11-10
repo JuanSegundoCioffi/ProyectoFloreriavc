@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Gerberas,Astromelias y Verdes",
+        "price": 850,
+        "image":"Imagenes/RamoGerberas.jpeg",
+        "category": "Ramos",
+        "id": 1 
+    },
+    {
+        "title": "Crisantemos Otome Rosas",
+        "price": 110,
+        "image": "Imagenes/CrisantemosRosas.jpeg",
+        "category": "Flores",
+        "id": 2 
+    },
+    {
+        "title": "Crisantemos Otome Violetas",
+        "price": 110,
+        "image": "Imagenes/FloresVioletas.jpeg",
+        "category": "Flores",
+        "id": 3 
+    },
+    {
+        "title": "Repollos de jardin 2 colores",
+        "price": 200,
+        "image": "Imagenes/plantines2.jpeg",
+        "category": "Plantines",
+        "id": 4 
+    },
+    {
+        "title": "Conejito",
+        "price": 130,
+        "image": "Imagenes/plantines.jpeg",
+        "category": "Plantines",
+        "id": 5 
+    },
+    {
+        "title": "Caléndulas dobles",
+        "price": 180,
+        "image": "Imagenes/plantinesN.jpeg",
+        "category": "Plantines",
+        "id": 6 
+    }
+]
